@@ -34,6 +34,6 @@ https://drive.google.com/file/d/1Tlu9KYJPajmxjFibEGmC4WavDmB9Ku1e/view?usp=shari
 https://beyondexams.org/dashboard/course/python-3-programming-tutorials-for-beginners-26618
 https://beyondexams.org/dashboard/course/%3F-mysql-tutorial-for-beginners-in-hindi-%2F-urdu-93ca0?type=topics
 https://beyondexams.org/dashboard/course/complete-java-programming-in-hindi-545de
-https://beyondexams.org/dashboard/course/css-tutorials-for-beginners-55499
 https://beyondexams.org/dashboard/course/html5-tutorials-in-hindi%2Furdu-8d139
+https://beyondexams.org/dashboard/course/css-tutorials-for-beginners-55499
 
