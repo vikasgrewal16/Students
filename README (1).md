@@ -14,13 +14,6 @@ We have made almost half half courses of each domain and we are interacting with
 ## Problem Faced
 Till now we have not so much big problem facing but one problem that we want to issue that importing a playlist with a large no of video(more than 50) order of video have been changed automatically and also we do not have any option to correct them. Also one more issue was that after importing we have to refresh 5-6 times so processing takes a lot of time.
 
-## Team Members
-##### •	Vikas – JAVA and CSS
-##### •	Nishant – PYHTON
-##### •	Tanish – HTML5
-##### •	Gyanendra – mySQL
-
-
 ## Screenshots
 
 https://drive.google.com/drive/folders/1IVZp6KhODMuC-QgJbElrTS1Dofs42_r4?usp=sharing
